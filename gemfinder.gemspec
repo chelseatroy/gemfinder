@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Gemfinder::VERSION
   spec.authors       = ["Chelsea"]
   spec.email         = ["chelsea.dommert@gmail.com"]
-  spec.summary       = %q{If you want information about a gem, type in "gemfind [GEM NAME]"" and you will see the name, version number, and description of that gem. }
+  spec.summary       = %q{Learn about active gems right from your terminal}
   spec.description   = %q{Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
