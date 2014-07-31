@@ -11,7 +11,6 @@ module Gemfinder
         puts info["version"]
         puts info["info"]
         puts info["project_uri"]
-        end
       end
 
       def gem_explore search_term
