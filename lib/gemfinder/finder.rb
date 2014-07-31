@@ -16,8 +16,8 @@ module Gemfinder
         matches = Gems.search search_term
 
         matches.each do |candidate_gem|
-          puts jaim["name"]
-          puts jaim["info"]
+          puts candidate_gem["name"]
+          puts candidate_gem["info"]
           puts
         end
       end
