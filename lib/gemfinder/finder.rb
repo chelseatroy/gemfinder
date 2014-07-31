@@ -17,7 +17,7 @@ module Gemfinder
         # matches.each do |candidate_gem|
         #   puts "#{candidate_gem}: "
         #   puts Gems.info(candidate_gem)
-        # end
+        end
       end
 
     end

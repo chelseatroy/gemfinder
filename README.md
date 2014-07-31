@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-If you want to know whether there is a gem available to do what you want to do, just type a few search queries into the terminal. This gem will return the names and descriptions of gems that might provide what you want.  
+If you want information about a gem, type in "gemfind [GEM NAME]"" and you will see the name, version number, and description of that gem. 
 
 ## Contributing
 
