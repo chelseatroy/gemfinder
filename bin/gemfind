@@ -4,5 +4,5 @@ require_relative "../lib/gemfinder/finder"
 
 search_terms = ARGV.to_s
 
-gem_search = Finder::Gemfind.new
+gem_search = Gemfind::Finder.new
 gem_search.gemfind(search_terms)
