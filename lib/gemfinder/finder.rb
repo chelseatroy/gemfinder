@@ -5,9 +5,9 @@ module Gemfinder
   class Finder
 
       def gemfind search_term
-        puts search_term
+
         info = Gems.info search_term
-        puts info
+       
         puts info["name"]
         puts info["version"]
         puts info["info"]
