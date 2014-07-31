@@ -3,8 +3,7 @@ require "gems"
 module Gemfinder
   class Finder
 
-      def gemfind
-        search_terms = gets.chomp
+      def gemfind(search_terms)
 
         matches = Gems.search(search_terms)
         matches.each do |candidate_gem|
