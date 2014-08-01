@@ -15,7 +15,6 @@ module Gemfinder
         else
           puts "Sorry: we couldn't find a gem by that name."
         end
-
       end
 
       def gem_explore search_term
@@ -29,7 +28,7 @@ module Gemfinder
             puts
           end
         else
-          puts "SorryL we couldn't find any gems with that search term in the name."
+          puts "Sorry, we couldn't find any gems with that search term in the name."
         end
       end
 
