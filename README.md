@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-If you want information about a gem, type in "gemfind [GEM NAME]" and you will see the name, version number, description, and URI of that gem. If you want to search for all of the gems with a certain sequence of letters in their name, type in "gem_explore [sequence of letters] to get all of those gems along with their names, version numbers, descriptions, and URIs. This is a great way to learn about a popular gem and all of the corollary gems that extend it or make it easier to use."
+If you want information about a gem, type in "gemfind [GEM NAME]" and you will see the name, version number, description, and URI of that gem. This is also an excellent way to check and see if the gem name you want to use for YOUR new gem is available, right from the terminal. If you want to search for all of the gems with a certain sequence of letters in their name, type in "gem_explore [sequence of letters] to get all of those gems along with their names, version numbers, descriptions, and URIs. This is a great way to learn about a popular gem and all of the corollary gems that extend it or make it easier to use."
 
 ## Contributing
 
