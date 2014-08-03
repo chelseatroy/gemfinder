@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Chelsea"]
   spec.email         = ["chelsea.dommert@gmail.com"]
   spec.summary       = %q{Learn about active gems right from your terminal}
-  spec.description   = %q{Write a longer description. Optional.}
+  spec.description   = %q{Learn about active gems right from your terminal, check if your desired gem name is taken, or look for extensions and helpers for a gem.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
